@@ -1,0 +1,8 @@
+.popular-destinations-text{
+    text-align: center;
+    font-size: 24px;
+}
+
+.popular-destinations-text > h6 {
+    color: rgb(167, 163, 163);
+}

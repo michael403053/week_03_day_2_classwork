@@ -1,0 +1,53 @@
+.favourite{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: white;
+  
+}
+
+.favourite-images1 > h3 {
+  font-family: "Shadows Into Light";
+  font-size: 26px;
+  margin: 0px;
+}
+.favourite-images2 > h3{
+  font-family: "Shadows Into Light";
+  font-size: 26px;
+  margin: 0px;
+}
+.favourite-images3 > h3{
+  font-family: "Shadows Into Light";
+  font-size: 26px;
+  margin: 0px;
+}
+
+.favourite-images1{
+  background-image: url('/Users/Michael/Desktop/codeclan_work/week_03/day_2/cc_travel_start/img/favourites/australia.png');
+  background-size: 400px 150px;
+  padding: 10px;
+  
+  background-repeat: no-repeat;
+
+}
+
+.favourite-images2{
+  background-image: url('/Users/Michael/Desktop/codeclan_work/week_03/day_2/cc_travel_start/img/favourites/indonesia.png');
+  background-size: 400px 150px;
+  padding: 10px;
+  background-repeat: no-repeat;
+}
+
+.favourite-images3{
+  background-image: url('/Users/Michael/Desktop/codeclan_work/week_03/day_2/cc_travel_start/img/favourites/switzerland.png');
+  background-size: 400px 150px;
+  padding: 10px;
+  background-repeat: no-repeat;
+}
+
+.explore-now{
+  background-color:rgb(22, 173, 22);
+  color: white;
+}
+
+
